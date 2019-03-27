@@ -1,7 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Controls}{4}{0}{1}
-\beamer@subsectionintoc {1}{1}{Modeling \& Linearization}{5}{0}{1}
-\beamer@subsectionintoc {1}{2}{Stability}{6}{0}{1}
-\beamer@subsectionintoc {1}{3}{Controlability}{6}{0}{1}
-\beamer@subsectionintoc {1}{4}{Observability}{6}{0}{1}
-\beamer@sectionintoc {2}{SVD, PCA}{6}{0}{2}
